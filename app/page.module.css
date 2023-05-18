@@ -142,7 +142,8 @@
 
 .arrowIcon {
   position: relative;
-  width: 100%;
+  /* width: 100%; */
+  left: 46%;
   top: 2px;
   z-index: 1;
   font-size: 2rem;
